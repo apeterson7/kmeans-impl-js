@@ -1,0 +1,23 @@
+{
+  "name": "kmeans-impl-js",
+  "version": "1.0.0",
+  "description": "An object oriented implementation of the k-means algorithm in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apeterson7/kmeans-impl-js.git"
+  },
+  "keywords": [
+    "kmeans",
+    "javascript"
+  ],
+  "author": "Alex Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apeterson7/kmeans-impl-js/issues"
+  },
+  "homepage": "https://github.com/apeterson7/kmeans-impl-js#readme"
+}
